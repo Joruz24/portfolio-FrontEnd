@@ -1,0 +1,4 @@
+# ignora el directorio bin
+bin/
+# ignora todos los archivos con textesion .db
+*.db 
